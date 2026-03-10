@@ -3,6 +3,7 @@
     <File Path=".gitignore" />
     <File Path="f100.txt" />
     <File Path="f200.txt" />
+    <File Path="f300.txt" />
     <File Path="README.md" />
   </Folder>
 </Solution>
